@@ -13,6 +13,11 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "forever": "2.0.0"
+    "forever": "2.0.0",
+    "mysql": "^2.18.1",
+    "password-hash": "^1.2.2",
+    "shortid": "^2.2.15",
+    "socket.io": "^2.3.0",
+    "upath": "^1.2.0"
   }
 }
